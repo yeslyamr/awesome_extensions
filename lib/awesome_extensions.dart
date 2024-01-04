@@ -9,19 +9,19 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
 export 'package:awesome_extensions/src/platform.dart';
-export 'package:awesome_extensions/src/url_strategy.dart';
-export 'package:awesome_extensions/src/widgets/avatar_image.dart';
+// export 'package:awesome_extensions/src/url_strategy.dart';
+// export 'package:awesome_extensions/src/widgets/avatar_image.dart';
 
 part 'context_extensions/dialog_extension.dart';
 part 'context_extensions/media_query_extension.dart';
-part 'context_extensions/navigation_extension.dart';
+// part 'context_extensions/navigation_extension.dart';
 part 'context_extensions/theme_extension.dart';
 part 'date_extensions/date_extension.dart';
 part 'double_extensions/size_box_extension.dart';
 part 'num_extensions/number_extension.dart';
 part 'src/nil.dart';
 part 'src/shimmer.dart';
-part 'string_extensions/string_extension.dart';
+// part 'string_extensions/string_extension.dart';
 part 'text_extensions/text_extension.dart';
 part 'text_extensions/text_style_extension.dart';
 part 'widget_extensions/align_extension.dart';
