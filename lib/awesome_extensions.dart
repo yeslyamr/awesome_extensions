@@ -9,12 +9,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
 export 'package:awesome_extensions/src/platform.dart';
-// export 'package:awesome_extensions/src/url_strategy.dart';
-// export 'package:awesome_extensions/src/widgets/avatar_image.dart';
 
-part 'context_extensions/dialog_extension.dart';
 part 'context_extensions/media_query_extension.dart';
-// part 'context_extensions/navigation_extension.dart';
 part 'context_extensions/theme_extension.dart';
 part 'date_extensions/date_extension.dart';
 part 'double_extensions/size_box_extension.dart';
